@@ -1,5 +1,5 @@
 # Cronômetro
 
-Pequeno projeto em Flutter explorando Mobx como gerenciador de estado dos controles do temporizador e do tema.
+Pequeno projeto em Flutter explorando Mobx como gerenciador de estado dos controles do temporizador.
 
-![cronometro](C:\Users\Rafael\Desktop\cronometro.jpg)
+![cronometro](https://user-images.githubusercontent.com/81890027/189034982-4b6192f4-2188-45ae-8417-bed82eac910d.jpg)
